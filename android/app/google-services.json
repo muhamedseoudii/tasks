@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677802020054",
+    "project_id": "amit-e76b0",
+    "storage_bucket": "amit-e76b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677802020054:android:4af3e8f7d402ad79ee4d77",
+        "android_client_info": {
+          "package_name": "com.amr.amoor1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677802020054-mq5ovuc6l466riv14rvgeetunq1d6tb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp3mCASXW1b1Y0oj7C8mR0hYPQ3L-Jmn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677802020054-mq5ovuc6l466riv14rvgeetunq1d6tb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

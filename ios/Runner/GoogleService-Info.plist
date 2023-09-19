@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>677802020054-haspc68o9sf449hp34hcmgvqpb1smnnr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.677802020054-haspc68o9sf449hp34hcmgvqpb1smnnr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5VTHclzQbu1N7zfTKCTCTivXmmtfRRHE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>677802020054</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.amr.amoor1</string>
+	<key>PROJECT_ID</key>
+	<string>amit-e76b0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amit-e76b0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:677802020054:ios:0062161ba753cc08ee4d77</string>
+</dict>
+</plist>
